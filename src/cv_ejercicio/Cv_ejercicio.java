@@ -12,8 +12,7 @@ public class Cv_ejercicio {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Version 0");
-        System.out.println("Version 1");
+        System.out.println("Alejandro Carrillo");
     }
     
 }
